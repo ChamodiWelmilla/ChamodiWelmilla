@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamodi Welmilla</h1>
-- 👯 I’m looking to collaborate on **on open source projects.**
+- 👯 I’m looking to collaborate on open source projects.
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
 
 
